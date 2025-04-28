@@ -1,0 +1,5 @@
+dependencies = "Update chango requirement from ~=0.3.2 to ~=0.4.0"
+[[pull_requests]]
+uid = "8"
+author_uid = "dependabot[bot]"
+closes_threads = []
